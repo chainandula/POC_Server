@@ -21,5 +21,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
 
-echo '<br>test';
+echo '<br>Success!!';
  ?>
