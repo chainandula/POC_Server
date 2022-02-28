@@ -3,7 +3,7 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $myvar1 = $_POST['name'];
   $myvar2 = $_POST['emailAddress'];
-  $url = 'https://mck70rr8gb21mq5vtlztbycwxwz0.pub.sfmc-content.com/hect0bodabt';
+  $url = 'https://mck70rr8gb21mq5vtlztbycwxwz0.pub.sfmc-content.com/isdlgk4sr15';
 
   $data = array('name' => $myvar1, 'emailAddress' => $myvar2, 'submitted' => 'submitted');
   $options = array(
